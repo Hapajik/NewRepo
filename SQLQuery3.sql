@@ -1,0 +1,1 @@
+﻿SELECT * FROM Uslugi WHERE stoim in (2500,4000)
