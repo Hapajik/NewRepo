@@ -40,5 +40,11 @@ namespace WFormApp9
             FormSotr f1 = new FormSotr();
             f1.ShowDialog();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Uslugi f2 = new Uslugi();
+            f2.ShowDialog();
+        }
     }
 }
