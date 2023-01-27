@@ -5,12 +5,6 @@ VisualStudioVersion = 15.0.28307.1259
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFormApp9", "WFormApp9\WFormApp9.csproj", "{A70159A3-104E-4B1C-A330-83E4BD21D8D7}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CD463AF4-59E7-4328-91DA-978E750EF949}"
-	ProjectSection(SolutionItems) = preProject
-		WFormApp9\AVTO_BASE.mdf = WFormApp9\AVTO_BASE.mdf
-		WFormApp9\AVTO_BASE_log.ldf = WFormApp9\AVTO_BASE_log.ldf
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
